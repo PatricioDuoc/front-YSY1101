@@ -4,7 +4,7 @@ on:
   push:
     branches: [ "main" ]
     paths:
-      - "**"
+      - "front-YSY1101/**"
 
 jobs:
   build-push-deploy-frontend:
