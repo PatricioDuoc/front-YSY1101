@@ -10,6 +10,7 @@ const API_BASE = "/api/productos";
 // const API_BASE = "http://localhost:3001/api/productos";
 
 let editandoId = null;
+
 const tbody = document.getElementById("tbodyProductos");
 const btnCargar = document.getElementById("btnCargar");
 const btnGuardar = document.getElementById("btnGuardar");
